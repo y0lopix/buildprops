@@ -1,2 +1,2 @@
 # Name format:
-`product.brand product.name product.device build.version.release build.display.id build.PDA`
+`ro.product.brand ro.product.name ro.product.device ro.build.version.release ro.build.display.id ro.build.PDA`
